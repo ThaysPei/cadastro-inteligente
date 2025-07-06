@@ -18,7 +18,7 @@ Um formulário web interativo que utiliza a **API ViaCEP** para buscar automatic
 
 ## 📸 Preview do Projeto
 
-<img src="./public/preview.jpeg" alt="Imagem de pré-visualização do sistema de cadastro" width="700"/>
+<img src="./assets/public/preview.jpeg" alt="Imagem de pré-visualização do sistema de cadastro" width="700"/>
 
 
 ## 🌐 Tecnologias utilizadas
