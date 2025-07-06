@@ -48,20 +48,19 @@ Digite um CEP válido (exemplo: 01001000)
 
 O sistema irá preencher automaticamente os campos:
 
-Rua
+. Rua
 
-Bairro
+. Bairro
 
-Cidade
+. Cidade
 
-Estado
+. Estado
 
-🤝 Contribuição
+🤝 Contribuição:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar PRs com melhorias.
 
-🧑‍💻 Autor
-Thays Peixoto
-📫 LinkedIn • GitHub
+. Autor: Thays Peixoto
+- LinkedIn: [Thays Peixoto no LinkedIn](https://www.linkedin.com/in/thays-peixoto-da-silva/)
 
 
 
