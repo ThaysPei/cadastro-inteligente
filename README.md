@@ -6,13 +6,7 @@ Um formulário web interativo que utiliza a **API ViaCEP** para buscar automatic
 
 ## 🚀 Funcionalidades
 
-- Preenchimento de **nome**, **email**, **telefone** e **CEP**
-- Busca automática de **rua**, **bairro**, **cidade** e **estado** usando a API ViaCEP
-- Validação de campos obrigatórios
-- Exibição de mensagens de erro e sucesso personalizadas
-- Estilização com **CSS3**
-- Requisições HTTP com `fetch()`
-- Projeto 100% em **HTML5 + CSS3 + JavaScript puro**
+- Busca automática de **rua**, **bairro**, **cidade** e **estado** via CEP
 
 ---
 
@@ -26,20 +20,25 @@ Um formulário web interativo que utiliza a **API ViaCEP** para buscar automatic
 - HTML5
 - CSS3
 - JavaScript
-- [ViaCEP API](https://viacep.com.br)
+- fetch 
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-/cadastro-inteligente
+/CADASTRO-INTELIGENTE
 │
 ├── index.html
-├── style.css
+├── README.md
 ├── script.js
+├── style.css
+│
 ├── assets/
-│ └── preview.png
-└── README.md
+│   ├── fundo.jpg
+│   ├── logo.jpeg
+│   └── public/
+│       └── preview.jpeg
+
 
 ---
 
