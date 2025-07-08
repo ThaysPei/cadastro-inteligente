@@ -25,7 +25,7 @@ Um formulário web interativo que utiliza a **API ViaCEP** para buscar automatic
 ---
 
 ## 📁 Estrutura do Projeto
-
+```
 /CADASTRO-INTELIGENTE
 │
 ├── index.html
@@ -39,7 +39,7 @@ Um formulário web interativo que utiliza a **API ViaCEP** para buscar automatic
 │   └── public/
 │       └── preview.jpeg
 
-
+```
 ---
 
 🚩 Como testar o preenchimento automático
